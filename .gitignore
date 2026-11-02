@@ -1,0 +1,19 @@
+# IDE —— PyCharm / IntelliJ
+.idea/
+.vscode/
+*.iml
+
+# Python 字节码与缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 数据库文件（本地测试数据，不进版本库）
+*.db
+*.sqlite
+*.sqlite3
+
+# 虚拟环境
+venv/
+.venv/
+env/
